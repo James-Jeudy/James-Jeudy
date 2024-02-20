@@ -13,7 +13,6 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Certified CyberDefender certification & a SOC Automation Project.
 - 🌱 I’m currently learning Linux.

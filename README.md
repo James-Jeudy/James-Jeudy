@@ -4,6 +4,9 @@
 
 - <b>Azure SOC/Honeynet Project</b>
   - [Creating a Live SOC/Honeynet in Azure ](https://github.com/James-Jeudy/SOC-Honeynet-Azure)
+ 
+- <b>Azure Remediation/NIST 800-53 Controls Implementation</b>
+  - [Azure Remediation ](https://github.com/James-Jeudy/AzureRemediation/tree/main)
     
 - <b>OpenVAS Vulnerability Management</b>
   - [OpenVAS Vulnerability Management ](https://github.com/James-Jeudy/OpenVAS_Vulnerability-Management)
